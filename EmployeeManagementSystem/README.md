@@ -1,6 +1,7 @@
 # EmployeeManagementSystem
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
+For this project i have performed CRUD operations like Add Employee,Edit Employee Info,Delete Employee
 
 ## Development server
 
