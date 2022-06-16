@@ -1,9 +1,35 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    {
+      "empId": 0,
+      "empName": "Jashwant Kumar",
+      "emailId": "k@gmail.com",
+      "mobileNo": 1234567,
+      "empDesignation": "dev",
+      "salary": 12345,
+      "id": 2
+    },
+    {
+      "empId": 0,
+      "empName": "Amit Kumar",
+      "emailId": "a@gmail.com",
+      "mobileNo": 123456,
+      "empDesignation": "dev",
+      "salary": 1234,
+      "id": 3
+    },
+    {
+      "empId": 0,
+      "empName": "Mohan Kumar",
+      "emailId": "m@gmail.com",
+      "mobileNo": 1234567,
+      "empDesignation": "dev",
+      "salary": 1234,
+      "id": 4
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
 }
