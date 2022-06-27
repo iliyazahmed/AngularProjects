@@ -2,15 +2,6 @@
   "posts": [
     {
       "empId": 0,
-      "empName": "Jashwant Kumar",
-      "emailId": "k@gmail.com",
-      "mobileNo": 1234567,
-      "empDesignation": "dev",
-      "salary": 12345,
-      "id": 2
-    },
-    {
-      "empId": 0,
       "empName": "Amit Kumar",
       "emailId": "a@gmail.com",
       "mobileNo": 123456,
@@ -19,13 +10,103 @@
       "id": 3
     },
     {
-      "empId": 0,
-      "empName": "Mohan Kumar",
-      "emailId": "m@gmail.com",
+      "empId": 4,
+      "empName": "Faisal Mohammad",
+      "emailId": "faisal@gmail.com",
+      "mobileNo": 123456,
+      "empDesignation": "Angular Developer",
+      "salary": 12345,
+      "id": 4
+    },
+    {
+      "empId": 5,
+      "empName": "Mohan Venkatesh",
+      "emailId": "mohan12@gmail.com",
+      "mobileNo": 123456,
+      "empDesignation": "dev",
+      "salary": 123456,
+      "id": 5
+    },
+    {
+      "empId": 6,
+      "empName": "mohammad iliyaz",
+      "emailId": "iliyaz@gmail.com",
       "mobileNo": 1234567,
       "empDesignation": "dev",
-      "salary": 1234,
-      "id": 4
+      "salary": 234567,
+      "id": 6
+    },
+    {
+      "empId": 0,
+      "empName": "Yamene Ramesh",
+      "emailId": "yamene@gmail.com",
+      "mobileNo": 1234567,
+      "empDesignation": "dev",
+      "salary": 12345,
+      "id": 7
+    },
+    {
+      "empId": 7,
+      "empName": "Anbarsan JayaKumar",
+      "emailId": "jk@gmail.com",
+      "mobileNo": 1234567,
+      "empDesignation": "Angular Developer",
+      "salary": 23454,
+      "id": 8
+    },
+    {
+      "empId": 0,
+      "empName": "Sachin  ",
+      "emailId": "sachin@gmail.com",
+      "mobileNo": 9876543210,
+      "empDesignation": "Mule-Soft dev",
+      "salary": 34567,
+      "id": 9
+    },
+    {
+      "empId": 0,
+      "empName": "Manoj Sharvan",
+      "emailId": "manoj@gmail.com",
+      "mobileNo": 9876543,
+      "empDesignation": "dev",
+      "salary": 123456,
+      "id": 10
+    },
+    {
+      "empId": 12,
+      "empName": "ert sdf",
+      "emailId": "a@gmail.com",
+      "mobileNo": 12345678,
+      "empDesignation": "Angular developer",
+      "salary": 12345,
+      "id": 12
+    },
+    {
+      "empId": 13,
+      "empName": "Sanjeevkanth Ramesh",
+      "emailId": "s@gmail.com",
+      "mobileNo": 12345,
+      "empDesignation": "Angular developer",
+      "salary": 2345,
+      "id": 13
+    },
+    {
+      "empId": 0,
+      "empName": "Virat Kohli",
+      "emailId": "virat@gmail.com",
+      "mobileNo": 1234567,
+      "empDesignation": "Angular developer",
+      "salary": 234567,
+      "id": 17
+    },
+    {
+      "empId": 0,
+      "empName": "null null",
+      "emailId": null,
+      "mobileNo": null,
+      "empDesignation": null,
+      "salary": null,
+      "id": 18
     }
   ],
   "comments": [],
